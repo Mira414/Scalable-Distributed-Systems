@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="java-client-generated">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../java-client-generated/target/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../java-client-generated/target/lib" recursive="false" />
+  </library>
+</component>
